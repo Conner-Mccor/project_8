@@ -12,3 +12,6 @@ else:
 if hex == 1:
     binary_value = bin(int(var, 16))
     print(f"{binary_value}")
+if decimal == 1:
+    binary_value = bin(int(var, 10))
+    print(f"{binary_value}")
