@@ -29,3 +29,6 @@ def parse_input(input):
          print("This is a decimal")
          decimal = 1
 def convert_to_binary(type):
+    if hex == 1:
+        binary_value = bin(int(var, 16))
+        print(f"{binary_value}")
