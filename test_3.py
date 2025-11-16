@@ -15,3 +15,7 @@ if hex == 1:
 if decimal == 1:
     binary_value = bin(int(var, 10))
     print(f"{binary_value}")
+def main():
+    name = input("What is your name?")
+    print(f"Hello {name}.")
+    var = input("Enter your input")
