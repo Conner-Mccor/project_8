@@ -22,3 +22,4 @@ def main():
 def parse_input(input):
     hex = 0
     decimal = 0
+    if var.startswith("0x"):
