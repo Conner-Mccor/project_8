@@ -26,3 +26,5 @@ def parse_input(input):
         print("This is a hex.")
         hex = 1
     else:
+         print("This is a decimal")
+         decimal = 1
