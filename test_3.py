@@ -28,3 +28,4 @@ def parse_input(input):
     else:
          print("This is a decimal")
          decimal = 1
+def convert_to_binary(type):
