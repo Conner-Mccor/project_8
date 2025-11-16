@@ -19,3 +19,4 @@ def main():
     name = input("What is your name?")
     print(f"Hello {name}.")
     var = input("Enter your input")
+def parse_input(input):
