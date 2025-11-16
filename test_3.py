@@ -20,3 +20,5 @@ def main():
     print(f"Hello {name}.")
     var = input("Enter your input")
 def parse_input(input):
+    hex = 0
+    decimal = 0
