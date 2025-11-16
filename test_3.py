@@ -25,3 +25,4 @@ def parse_input(input):
     if var.startswith("0x"):
         print("This is a hex.")
         hex = 1
+    else:
